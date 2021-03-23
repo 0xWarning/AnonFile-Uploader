@@ -1,0 +1,14 @@
+C:\Users\verpl\source\repos\AnonFile-Uploader\AnonFile-Uploader\bin\Debug\AnonFile-Uploader.exe.config
+C:\Users\verpl\source\repos\AnonFile-Uploader\AnonFile-Uploader\bin\Debug\AnonFile-Uploader.exe
+C:\Users\verpl\source\repos\AnonFile-Uploader\AnonFile-Uploader\bin\Debug\AnonFile-Uploader.pdb
+C:\Users\verpl\source\repos\AnonFile-Uploader\AnonFile-Uploader\obj\Debug\AnonFile-Uploader.csprojAssemblyReference.cache
+C:\Users\verpl\source\repos\AnonFile-Uploader\AnonFile-Uploader\obj\Debug\AnonFile-Uploader.csproj.CoreCompileInputs.cache
+C:\Users\verpl\source\repos\AnonFile-Uploader\AnonFile-Uploader\obj\Debug\AnonFile-Uploader.exe
+C:\Users\verpl\source\repos\AnonFile-Uploader\AnonFile-Uploader\obj\Debug\AnonFile-Uploader.pdb
+G:\source\repos\AnonFile-Uploader\AnonFile-Uploader\bin\Debug\AnonFile-Uploader.exe.config
+G:\source\repos\AnonFile-Uploader\AnonFile-Uploader\bin\Debug\AnonFile-Uploader.exe
+G:\source\repos\AnonFile-Uploader\AnonFile-Uploader\bin\Debug\AnonFile-Uploader.pdb
+G:\source\repos\AnonFile-Uploader\AnonFile-Uploader\obj\Debug\AnonFile-Uploader.csprojAssemblyReference.cache
+G:\source\repos\AnonFile-Uploader\AnonFile-Uploader\obj\Debug\AnonFile-Uploader.csproj.CoreCompileInputs.cache
+G:\source\repos\AnonFile-Uploader\AnonFile-Uploader\obj\Debug\AnonFile-Uploader.exe
+G:\source\repos\AnonFile-Uploader\AnonFile-Uploader\obj\Debug\AnonFile-Uploader.pdb
